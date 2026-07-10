@@ -1,1 +1,29 @@
-.venv
+# Ambiente virtual
+.venv/
+
+
+# Configurações da IDE
+.idea/
+.vscode/
+
+# Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos compilados
+*.so
+
+# Banco SQLite
+*.db
+*.sqlite3
+
+# Variáveis de ambiente
+.env
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
